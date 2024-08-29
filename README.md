@@ -1,4 +1,4 @@
-# WEATHER-APP-API (AdaptNxt by using NodeJS)
+![image](https://github.com/user-attachments/assets/31ce24fb-93d6-4bf3-a5ca-172c034c8d9c)# WEATHER-APP-API (AdaptNxt by using NodeJS)
 
 # Description:
 -Building a service that fetches and displays weather information based on user input (city or location).
@@ -11,6 +11,11 @@
   - npm install
   - node server.js
   - open at [http://localhost:3000/?address="{city_name}"]
+
+# Deployment Link
+[ https://weather-info-bycity-adaptnxt-nodejs.onrender.com/?address=Nagpur ]
+Instead of Nagpur(CityName) change the city name in this link set as Nagpur
+
 
 # Screenshots:
 ![Screenshot (816)](https://github.com/user-attachments/assets/0795f8ff-f9bc-470e-a520-c4ec7a0370b8)
