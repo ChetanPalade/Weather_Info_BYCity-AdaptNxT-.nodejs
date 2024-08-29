@@ -1,6 +1,12 @@
-# WEATHER-APP-API (AdaptNxt by using NodeJS
+# WEATHER-APP-API (AdaptNxt by using NodeJS)
 
-# UInstallation To run this project install it locally using npm:
+# Description:
+-Building a service that fetches and displays weather information based on user input (city or location).
+-Fetched weather data from an external API(CAN USE WEATHERSTACKAPI FOR FREE)
+-Displayed weather information for a given city
+
+
+# Installation To run this project install it locally using npm:
   - npm init -y
   - npm install
   - node server.js
